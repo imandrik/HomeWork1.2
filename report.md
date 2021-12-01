@@ -14,6 +14,7 @@
 ## Описание процесса тестирования
 
 В процессе тестирования использовались следующие артефакты*:
+* [генератор номеров банковских карт](https://www.freeformatter.com/credit-card-number-generator-validator.html)
 * [тестовые сценарии](https://docs.google.com/spreadsheets/d/1eEN5cjjawsfRiqSg8lN7AYtahwVVAV_R3Pu-moX-F88/edit?usp=sharing)
 
 В качестве тестовых данных использовались данные из [генератора номеров банковских карт](https://www.freeformatter.com/credit-card-number-generator-validator.html):
